@@ -24,3 +24,4 @@ you can press the escape button to toggle between using your mouse cursor and mo
 you can jump with space bar <br />
 run around and collect the golden bars <br />
 they should dissapear for both clients and the score should get updated <br />
+*(last tested 2021)* <br />
