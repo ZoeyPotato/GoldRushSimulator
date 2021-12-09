@@ -2,7 +2,7 @@
 made by Joseph Hoff, Brandon Roth <br />
 
 made for the class CSS 432 - Network Design at University of Washington: Bothell, Spring 2014 <br />
-the professor was Brent Lagesse
+the professor was Brent Lagesse <br />
 
 this is a prototype first person networked multiplayer game <br />
 this is a Unity C# app that uses Berkeley sockets, not Unity's networking API <br />
