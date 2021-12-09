@@ -2,10 +2,10 @@
 made by Joseph Hoff, Brandon Roth <br />
 
 made for the class CSS 432 - Network Design at University of Washington: Bothell, Spring 2014 <br />
-the professor was Brent Lagesse <br />
+the professor was Brent Lagesse
 
-this is a prototype first person networked multiplayer game
-this is a Unity C# app that uses Berkeley sockets, not Unity's networking API
+this is a prototype first person networked multiplayer game <br />
+this is a Unity C# app that uses Berkeley sockets, not Unity's networking API <br />
 this is a ffa game, your goal is to jump around and collect the most floating golden bars
 
 i don't have the source code for this unfortunately...
