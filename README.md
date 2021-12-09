@@ -23,4 +23,4 @@ it's a bit janky, just keep clicking 'Hello World', it should work eventually :)
 you can press the escape button to toggle between using your mouse cursor and moving the in game camera <br />
 you can jump with space bar <br />
 run around and collect the golden bars <br />
-they should dissapear for both clients and the score should get updated <br />
+they should dissapear for both clients and the score should get updated
