@@ -3,7 +3,6 @@
 made by Joseph Hoff, Brandon Roth
 
 made for the class CSS 432 - Network Design at University of Washington: Bothell, Spring 2014
-
 the professor was Brent Lagesse
 
 this is a prototype first person networked multiplayer game
