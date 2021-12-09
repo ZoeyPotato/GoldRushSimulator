@@ -1,5 +1,4 @@
 # GoldRushSimulator
-
 made by Joseph Hoff, Brandon Roth <br />
 
 made for the class CSS 432 - Network Design at University of Washington: Bothell, Spring 2014 <br />
